@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OfficialPixie! I am a beginner coder and pursing a dregree in Software Enginnering at Oregon Tech!
 - 📫 How to reach me: 
-      Discord - pixie666 
-      Email - OfficialPixiez@gmail.com
+   - Discord - pixie666 
+   - Email - OfficialPixiez@gmail.com
 - 😄 Pronouns: Any!
 - ⚡ Fun fact: I enjoy playing video games!
 
